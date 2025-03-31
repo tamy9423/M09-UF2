@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/d7598306-b821-4342-91b3-8b1c35278e93)
+
 Respuestas:
 ¿Cuántos hilos se están ejecutando en este programa?
 Respuesta:
